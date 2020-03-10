@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font color="green";
 }
 nav ul, footer ul {
     font-family: 'Times New Roman', 'Times', 'serif';
@@ -20,6 +21,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
+    font color="darkgreen";
     font-size: 3em;
     font-family:'Times New Roman', 'Times', 'serif';
 }
